@@ -1,2 +1,6 @@
 !Kazino-Royal.cpp
 Kazino-Royal*
+# Игнорировать исполняемые файлы
+*.exe
+*.out
+*.o
